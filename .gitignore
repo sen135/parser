@@ -1,0 +1,44 @@
+# 临时文件
+tmpfile
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# 编译文件
+*.o
+*.a
+*.so
+*.dll
+*.exe
+parser_app
+static_test
+dynamic_test
+parser_dyn
+parser_static
+
+# 核心转储文件
+core
+core.*
+*.core
+
+# IDE文件
+.vscode/
+.idea/
+*.code-workspace
+
+# 构建目录
+build/
+dist/
+*.out
+
+# 测试文件
+test.txt
+test_*.txt
+
+# 文档
+docs/
+doxygen/
+html/
+latex/
